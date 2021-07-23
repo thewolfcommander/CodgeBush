@@ -28,4 +28,4 @@ That's it. We only need to follow these steps to create our handy snippets.
 
 ## Want to contribute?
 
-Hey folks, if you want to contribute to the project and want to add your beautiful snippets the please head over to find [contributing.md here](contributing.md)
+Hey folks, if you want to contribute to the project and want to add your beautiful snippets the please head over to find [contributing.md here](https://github.com/thewolfcommander/CodgeBush/blob/main/contributing.md)
