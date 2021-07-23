@@ -2,10 +2,17 @@
 
 CodgeBush is my personal library for hand-picked code snippets to get the work done in plenty of minutes
 
-# Live Link
+## Live Link
 
 View the CodgeBush Snippets here:
 https://thewolfcommander.github.io/CodgeBush/
+
+## Snippets
+
+- [Python](/python/README.md)
+  - [Django](/python/django/README.md)
+    - [Django REST Swagger Configuration](/python/django/django-rest-swagger/README.md)
+    - [Django S3 Integration - Django-storages](python/django/s3-core-django-configuration/README.md)
 
 ## How I write configuration snippets
 
