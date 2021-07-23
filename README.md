@@ -4,8 +4,7 @@ CodgeBush is my personal library for hand-picked code snippets to get the work d
 
 ## Live Link
 
-View the CodgeBush Snippets here:
-https://thewolfcommander.github.io/CodgeBush/
+View the CodgeBush Snippets [here](https://thewolfcommander.github.io/CodgeBush/)
 
 ## Snippets
 
