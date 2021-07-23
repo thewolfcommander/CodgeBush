@@ -4,8 +4,8 @@ This file contains the configuration for setting up django-rest-swagger for djan
 
 FOR more info:
 
-Documentation - https://django-rest-swagger.readthedocs.io/en/latest/#installation
+Documentation - [click here](https://django-rest-swagger.readthedocs.io/en/latest/#installation)
 
-Error - https://stackoverflow.com/questions/55929472/django-templatesyntaxerror-staticfiles-is-not-a-registered-tag-library
+Error - [click here](https://stackoverflow.com/questions/55929472/django-templatesyntaxerror-staticfiles-is-not-a-registered-tag-library)
 
-Error - https://stackoverflow.com/questions/57654243/how-to-fix-attributeerror-at-api-doc-autoschema-object-has-no-attribute-ge
+Error - [click here](https://stackoverflow.com/questions/57654243/how-to-fix-attributeerror-at-api-doc-autoschema-object-has-no-attribute-ge)
