@@ -25,3 +25,7 @@ Basically I follow a format to write my handy snippets so that I can find them e
   - For Example: For django-storages configuration, and s3 bucket implementation, we need two policies - CORS and BUCKET_POLICY, so I've created the two json section to add json configuration.
 
 That's it. We only need to follow these steps to create our handy snippets.
+
+## Want to contribute?
+
+Hey folks, if you want to contribute to the project and want to add your beautiful snippets the please head over to find [contributing.md here](contributing.md)
