@@ -11,7 +11,8 @@ View the CodgeBush Snippets [here](https://thewolfcommander.github.io/CodgeBush/
 - [Python](/python/README.md)
   - [Django](/python/django/README.md)
     - [Django REST Swagger Configuration](/python/django/django-rest-swagger/README.md)
-    - [Django S3 Integration - Django-storages](python/django/s3-core-django-configuration/README.md)
+    - [Django S3 Integration - Django-storages](/python/django/s3-core-django-configuration/README.md)
+    - [Django Google Auth Integration - Basic](/python/django/django-google-auth/README.md)
 
 ## How I write configuration snippets
 
