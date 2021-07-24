@@ -13,6 +13,7 @@ View the CodgeBush Snippets [here](https://thewolfcommander.github.io/CodgeBush/
     - [Django REST Swagger Configuration](/python/django/django-rest-swagger/README.md)
     - [Django S3 Integration - Django-storages](/python/django/s3-core-django-configuration/README.md)
     - [Django Google Auth Integration - Basic](/python/django/django-google-auth/README.md)
+    - [Django Custom User Model](/python/django/django-custom-user/README.md)
 
 ## How I write configuration snippets
 
