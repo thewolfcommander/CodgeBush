@@ -189,7 +189,7 @@ class RegisterAPIView(APIView):
 
     def post(self, request, format=None):
         """
-        method for enabling user to register on Notex APP
+        method for enabling user to register on  APP
         """
         serializer = acc_serializers.UserRegistrationSerializer(data=request.data)
         if serializer.is_valid():
