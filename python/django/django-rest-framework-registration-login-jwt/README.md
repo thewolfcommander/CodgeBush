@@ -4,7 +4,7 @@ This module deals with the registration and login feature of user using django r
 
 #### Dependency
 
-This module is dependent on Custom user Model. If you want to implement custom user model, then you can [click here](~/python/django/django-custom-user/README.md)
+This module is dependent on Custom user Model. If you want to implement custom user model, then you can [click here](../django-custom-user/README.md)
 
 ## Configuation and Snippet
 
