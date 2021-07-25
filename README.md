@@ -15,6 +15,7 @@ View the CodgeBush Snippets [here](https://thewolfcommander.github.io/CodgeBush/
     - [Django Google Auth Integration - Basic](/python/django/django-google-auth/README.md)
     - [Django Custom User Model](/python/django/django-custom-user/README.md)
     - [Django REST Framework - Registration and Login with JWT](/python/django/django-rest-framework-registration-login-jwt/README.md)
+    - [Django REST Framework - Django Filter integration](python/django/django-filters-integration-drf/README.md)
 
 ## How I write configuration snippets
 
