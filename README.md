@@ -16,6 +16,7 @@ View the CodgeBush Snippets [here](https://thewolfcommander.github.io/CodgeBush/
     - [Django Custom User Model](/python/django/django-custom-user/README.md)
     - [Django REST Framework - Registration and Login with JWT](/python/django/django-rest-framework-registration-login-jwt/README.md)
     - [Django REST Framework - Django Filter integration](python/django/django-filters-integration-drf/README.md)
+    - [Django REST Framework - File Upload to s3 - base64 included](python/django/django-file-upload-s3/README.md)
 
 ## How I write configuration snippets
 
