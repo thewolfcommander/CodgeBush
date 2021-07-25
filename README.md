@@ -14,6 +14,7 @@ View the CodgeBush Snippets [here](https://thewolfcommander.github.io/CodgeBush/
     - [Django S3 Integration - Django-storages](/python/django/s3-core-django-configuration/README.md)
     - [Django Google Auth Integration - Basic](/python/django/django-google-auth/README.md)
     - [Django Custom User Model](/python/django/django-custom-user/README.md)
+    - [Django REST Framework - Registration and Login with JWT](/python/django/django-rest-framework-registration-login-jwt/README.md)
 
 ## How I write configuration snippets
 

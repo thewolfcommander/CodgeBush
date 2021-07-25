@@ -4,6 +4,10 @@ In this module, I've added how to do google authentication using django-rest-fra
 
 More info: [Click here](https://gerrysabar.medium.com/implementing-google-login-with-jwt-in-django-for-restful-api-authentication-eaa92e50522d)
 
+- To get access token for google [click here](https://developers.google.com/oauthplayground/)
+  - Paste below link in scope: https://www.googleapis.com/auth/userinfo.email
+  - Then Copy the access token from there
+
 ## Configuration
 
 ```python
