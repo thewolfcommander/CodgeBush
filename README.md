@@ -18,6 +18,12 @@ View the CodgeBush Snippets [here](https://thewolfcommander.github.io/CodgeBush/
     - [Django REST Framework - Django Filter integration](python/django/django-filters-integration-drf/README.md)
     - [Django REST Framework - File Upload to s3 - base64 included](python/django/django-file-upload-s3/README.md)
 
+- [HTML]()
+  - [One Liners]()
+    - [Translate No](html/one-liners/translate-no/README.md)
+    - [Poster in Video](html/one-liners/poster-in-video/README.md)
+    - [Content Editable and Spellcheck](html/one-liners/content-editable-and-spellcheck/README.md)
+
 ## How I write configuration snippets
 
 Basically I follow a format to write my handy snippets so that I can find them easily when I need them. So, the steps and format I follow is mentioned below:
