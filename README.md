@@ -18,8 +18,8 @@ View the CodgeBush Snippets [here](https://thewolfcommander.github.io/CodgeBush/
     - [Django REST Framework - Django Filter integration](python/django/django-filters-integration-drf/README.md)
     - [Django REST Framework - File Upload to s3 - base64 included](python/django/django-file-upload-s3/README.md)
 
-- [HTML]()
-  - [One Liners]()
+- [HTML](html/README.md)
+  - [One Liners](html/one-liners/README.md)
     - [Translate No](html/one-liners/translate-no/README.md)
     - [Poster in Video](html/one-liners/poster-in-video/README.md)
     - [Content Editable and Spellcheck](html/one-liners/content-editable-and-spellcheck/README.md)
